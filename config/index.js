@@ -5,6 +5,6 @@ module.exports = {
   touser: "oZ4O65lY99kB5pN0TwV4u-IfKcB0",
 
   key: "201c93c2e2b34bdeecdbf9f5265eb84e",
-  city: "乌鲁木齐",
+  city: "巴音郭楞",
   first_date: "2023-01-15",
 };
